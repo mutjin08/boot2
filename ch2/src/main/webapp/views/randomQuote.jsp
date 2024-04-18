@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <title>Hello, ${username}!</title>
+    <title>randomQuote</title>
 </head>
 <body>
 <!--1. navigation-->
@@ -18,7 +18,8 @@
 
 <!--2. content-->
 <div class="bg-dark text-white p-5">
-    <h1>Hello, ${username}!</h1>
+    <h1>randomQuote</h1>
+    <h3>${quote}</h3>
 </div>
 
 <!--3. site info-->
