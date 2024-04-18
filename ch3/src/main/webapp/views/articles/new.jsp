@@ -20,6 +20,11 @@
 <!--2. content-->
 <div class="bg-dark text-white p-5">
     <h1>new</h1>
+    <form>
+        <input type="text"/>
+        <textarea></textarea>
+        <button type="submit">Submit</button>
+    </form>
 </div>
 
 <!--3. site info-->
